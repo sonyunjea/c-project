@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\sunja\source\repos\myGameServer\myGameServer\GamePlayer.h(56,20): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\sunja\source\repos\myGameServer\myGameServer\GamePlayer.h(60,20): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\sunja\source\repos\myGameServer\myGameServer\GameInfo.h(71,19): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\sunja\source\repos\myGameServer\myGameServer\GameInfo.h(240,31): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\sunja\source\repos\myGameServer\myGameServer\GameInfo.h(285,39): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\sunja\source\repos\myGameServer\myGameServer\GameInfo.h(331,31): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\sunja\source\repos\myGameServer\myGameServer\GameServer.h(110,42): warning C4244: '초기화 중': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\sunja\source\repos\myGameServer\myGameServer\GameServer.h(273,27): warning C4267: '초기화 중': 'size_t'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\sunja\source\repos\myGameServer\myGameServer\GameServer.h(287,33): warning C4267: '=': 'size_t'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+  myGameServer.vcxproj -> C:\Users\sunja\source\repos\myGameServer\x64\Debug\myGameServer.exe
